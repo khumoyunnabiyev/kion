@@ -1,0 +1,164 @@
+.nav{
+    position: relative;
+    width: 1440px;
+    height: 120px;
+    // outline: 1px solid red;
+    display: flex;
+
+
+}
+.nav__logo{
+    position: absolute;
+    top: 40px;
+    left: 80px;
+    width: 130px;
+    height: 40px;
+}
+.nav__menu{
+    display: flex;
+    // outline: 1px solid red;
+    width: 500px;
+    align-items: center;
+    position: absolute;
+    top: 48px;
+    left: 556px;
+    right: 438px;
+
+}
+.menu_item a{
+    display: flex;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #40494D;
+    // outline: 1px solid red;
+    
+    
+
+}
+.nav__demo{
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    background-color: #283337;
+    color: #FFFFFF;
+    padding: 16px 25px 19px;
+    height: 56px;
+    border-radius: 56px;
+    position: absolute;
+    top: 32px;
+    right: 80px;
+    border: 1px solid #283337;
+
+}
+.nav__search{
+    width: 17px;
+    height: 17px;
+}
+.nav_ser{
+    width: 58px;
+    height: 56px;
+    border: 1px solid #40494D;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    border-radius: 50%;
+    position: absolute;
+    top: 32px;
+    right: 272px;
+}
+.container{
+    position: relative;
+    width: 1440px;
+    height: 1305px;
+    background-color: #F3F7F4;
+    // outline: 1px solid red;
+    background-image: url(../img/1.png);
+    background-size: 415px 540px;
+    background-repeat: no-repeat;
+    background-position: 778px 179px;
+}
+.h1_compl{
+    font-family: Times New Roman;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #283337;
+    width: 420px;
+    height: 180px;
+    position: absolute;
+    top: 278px;
+    left:105px;
+
+}
+.p_over{
+    font-family: Arial;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #40494D;
+    width: 347px;
+    height: 62px;
+    position: absolute;
+    left: 105px;
+    top: 502px;
+
+    
+}
+.cont__btn{
+    display: flex;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #283337;
+    width: 218px;
+    height: 56px;
+    padding: 16px 50px 19px 51px;
+    border-radius: 56px;
+    position: absolute;
+    left: 105px;
+    top: 590px;
+    border: 1px solid #283337;
+
+}
+.img2{
+    width: 206px;
+    height: 200px;
+    position: absolute;
+    left: 675px;
+    top: 359px;
+}
+.img3{
+    width: 230px;
+    height: 187px;
+    position: absolute;
+    left: 880px;
+    top: 605px;
+
+}
+.img4{
+    width: 210px;
+    height: 189px;
+    position: absolute;
+    top: 336px;
+    right: 132px;
+}
+.logo_frame{
+    width: 1330px;
+    height: 150px;
+    position: absolute;
+    left: 55px;
+    bottom: 125px;
+}

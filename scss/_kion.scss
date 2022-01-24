@@ -1,0 +1,87 @@
+.box_kion{
+    position: relative;
+    width: 1440px;
+    height: 823px;
+    // outline: 1px solid red;
+    margin-top: 262px;
+}
+.kion__box{
+    width: 640px;
+    height: 360px;
+    // outline: 1px solid red;
+    position: absolute;
+    top: 232px;
+    right: 80px;
+    // background-image: url(../logo/kion.png);
+    background-image: url(../logo/kion.png);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+
+}
+.kion_dif{
+    height: 120px;
+    width: 285px;
+    font-family: Times New Roman;
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1px;
+    color: #283337;
+    position: absolute;
+    top: 144px;
+    left: 105px;   
+
+}
+.kion_com{
+    font-family: Arial;
+    font-size: 18px; 
+    font-weight: 400;
+    line-height: 26px;
+    color: #40494D;
+    height: 104px;
+    width: 381px;
+    position: absolute;
+    left: 105px;
+    top: 307px;
+}
+.kion_our{
+    font-family: Arial;
+    font-size: 11px;
+    font-weight: 400;
+    color: #283337;
+    position: absolute;
+    left: 105px;
+    top: 435px;
+}
+.kion_tx{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #40494D;
+    position: absolute;
+    left: 139px;
+    top: 473px;
+}
+.pri{
+    top: 511px;
+}
+.multi{
+    top: 549px;
+}
+.sing{
+    top: 587px;
+}
+.kion__a{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    color: #40494D;
+    position: absolute;
+    left: 105px;
+    top: 637px;
+
+
+}

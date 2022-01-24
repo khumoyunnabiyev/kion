@@ -1,0 +1,100 @@
+.cont_product{
+    position: relative;
+    width: 1440px;
+    height: 728px;
+    // outline: 1px solid red;
+}
+.pro__h1{
+    font-family: Times New Roman;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 60px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #283337;
+    position: absolute;
+    left: 160px;
+    top: 74px;
+
+}
+.pro__come{
+    color: #40494D;
+    font-family: Arial;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 363px;
+    height: 104px;
+    position: absolute;
+    left: 160px;
+    top: 162px;
+}
+.pro__btn{
+    height: 56px;
+    width: 243px;
+    border-radius: 56px;
+    background-color: #283337;
+    color: #fff;
+    padding: 16px 25px 19px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    position: absolute;
+    left: 160px;
+    top: 305px;
+    border: 1px solid #283337;
+}
+.pro_box{
+    height: 548px;
+    width: 560px;
+    border-radius: 6px;
+    // outline: 1px solid red;
+    background-color: #F3F7F4;
+    position: absolute;
+    top: 80px;
+    right: 160px;
+}
+.pro_img{
+    width: 90px;
+    height: 90px;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+.box_auto{
+    height: 68px;
+    width: 203px;
+    font-family: Arial;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 34px;
+    color: #283337;
+    position: absolute;
+    left: 80px;
+    top: 197px;
+}
+.box_coment{
+    height: 78px;
+    width: 391px;
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #40494D;
+    position: absolute;
+    left: 80px;
+    top: 316px;
+}
+.box_learn{
+    font-family: Arial;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    color: #283337;
+    position: absolute;
+    left: 334px;
+    bottom: 80px;
+}
